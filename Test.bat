@@ -1,0 +1,2 @@
+echo DIE!
+shutdown /r
